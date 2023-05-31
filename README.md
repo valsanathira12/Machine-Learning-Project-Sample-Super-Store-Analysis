@@ -1,5 +1,5 @@
 # Machine-Learning-Project-Sample-Super-Store-Analysis
-# Samplesuper-Store-Data-Analysis-ML-Project
+
 ![image](https://github.com/valsanathira12/Samplesuper-Store-Data-Analysis-ML-Project/assets/102414557/7da3cfb4-cea0-450d-a699-fa3aee406dce)
 
 ### INTRODUCTION:
