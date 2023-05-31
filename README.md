@@ -1,6 +1,6 @@
 # Machine-Learning-Project-Sample-Super-Store-Analysis
 
-![image](https://github.com/valsanathira12/Samplesuper-Store-Data-Analysis-ML-Project/assets/102414557/7da3cfb4-cea0-450d-a699-fa3aee406dce)
+![1624976](https://github.com/valsanathira12/Machine-Learning-Project-Sample-Super-Store-Analysis/assets/102414557/dd7403e4-c9e9-4927-8ce7-28a7e1ff23f7)
 
 ### INTRODUCTION:
 In today's highly competitive retail landscape, businesses strive to gain a competitive edge by leveraging data-driven insights to optimize their operations and enhance customer experiences. One such business, a fictional superstore, aims to harness the power of machine learning and data analysis techniques to unlock valuable patterns and trends within their sales and customer data. This Kaggle Machine Learning project delves into the vast dataset provided by the superstore, with the objective of extracting meaningful insights and building predictive models to drive decision-making and operational efficiency.By conducting a comprehensive analysis on this rich dataset, we aim to uncover hidden patterns, understand customer behavior, identify influential factors affecting sales performance, and develop accurate predictive models. These insights will enable the superstore to make better decisions, optimize its inventory management, enhance customer targeting, and ultimately maximize its sales revenue and profitability.
