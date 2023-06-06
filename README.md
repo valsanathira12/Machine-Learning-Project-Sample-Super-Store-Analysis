@@ -18,9 +18,8 @@ The sample Dataset includes data for the Sales of multiple products sold by a co
 8.	Which category of products generates the highest revenue and profit?
 9.	What are the top-selling products in the superstore?
 10.	Most commonly given discount %?
-11.	Most commonly given discount %?
-12.	What is the profit trend over time (monthly, yearly)?
-13.	Does delivery time affect sales and profit?
+13.	What is the profit trend over time (monthly, yearly)?
+14.	Does delivery time affect sales and profit?
 
 ### TOOLS AND TECHNOLOGIES USED TO IMPLEMENT THE PROPOSED SOLUTION
 
